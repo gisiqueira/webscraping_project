@@ -1,5 +1,6 @@
-# ALL 93 BEST PICTURE WINNERS, SCORED by Rotten Tomatos
+# ALL 93 BEST PICTURE WINNERS, SCORED 
+# by Rotten Tomatos
 
 
-![](https://tenor.com/pbrU.gif)
+![](http://gph.is/2Captiq)
 
