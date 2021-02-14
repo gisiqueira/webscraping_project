@@ -4,6 +4,8 @@
 
 ###### By Gisele Siqueira for IronHack Data Analytics Bootcamp, 2021
 
+### Dashboard: https://datastudio.google.com/s/rzZwemb89zM
+
 
 ![](https://media.giphy.com/media/d9qKRrl9JE2QM/giphy.gif)
 
