@@ -1,94 +1,94 @@
-,Edition,Movie,Year,Directed By,Score (%)
-0,93,The Broadway Melody,1929,Harry Beaumont,33
-1,92,The Greatest Show on Earth,1952,Cecil B. DeMille,42
-2,91,Cimarron,1931,Wesley Ruggles,52
-3,90,Out of Africa,1985,Sydney Pollack,62
-4,89,Cavalcade,1933,Frank Lloyd,64
-5,88,The Great Ziegfeld,1936,Robert Z. Leonard,64
-6,87,Around the World in 80 Days,1956,Michael Anderson,69
-7,86,Forrest Gump,1994,Robert Zemeckis,71
-8,85,Crash,2004,Paul Haggis,74
-9,84,A Beautiful Mind,2001,Ron Howard,74
-10,83,Terms of Endearment,1983,James L. Brooks,78
-11,82,Braveheart,1995,Mel Gibson,78
-12,81,Gentleman's Agreement,1947,Elia Kazan,76
-13,80,Gladiator,2000,Ridley Scott,77
-14,79,Oliver!,1968,Carol Reed,82
-15,78,Going My Way,1944,Leo McCarey,81
-16,77,Gigi,1958,Vincente Minnelli,81
-17,76,Tom Jones,1963,Tony Richardson,82
-18,75,Driving Miss Daisy,1989,Bruce Beresford,82
-19,74,Chariots of Fire,1981,Hugh Hudson,82
-20,73,A Man for All Seasons,1966,Fred Zinnemann,83
-21,72,Dances With Wolves,1990,Kevin Costner,83
-22,71,The English Patient,1996,Anthony Minghella,85
-23,70,The Life of Emile Zola,1937,"Irving Rapper, William Dieterle",82
-24,69,Gandhi,1982,Richard Attenborough,85
-25,68,Ben-Hur,1959,William Wyler,86
-26,67,Kramer vs. Kramer,1979,Robert Benton,88
-27,66,The Sound of Music,1965,Robert Wise,83
-28,65,Green Book,2018,Peter Farrelly,78
-29,64,Grand Hotel,1932,Edmund Goulding,86
-30,63,Chicago,2002,Rob Marshall,86
-31,62,Ordinary People,1980,Robert Redford,89
-32,61,Platoon,1986,Oliver Stone,88
-33,60,The Last Emperor,1987,Bernardo Bertolucci,89
-34,59,Rain Man,1988,Barry Levinson,89
-35,58,American Beauty,1999,Sam Mendes,87
-36,57,How Green Was My Valley,1941,John Ford,89
-37,56,Wings,1927,William Wellman,93
-38,55,Mrs. Miniver,1942,William Wyler,94
-39,54,Midnight Cowboy,1969,John Schlesinger,88
-40,53,Million Dollar Baby,2004,Clint Eastwood,91
-41,52,Patton,1970,Franklin J. Schaffner,94
-42,51,Shakespeare in Love,1998,John Madden (II),92
-43,50,The Sting,1973,George Roy Hill,94
-44,49,My Fair Lady,1964,George Cukor,95
-45,48,West Side Story,1961,"Robert Wise, Jerome Robbins",92
-46,47,Hamlet,1948,Laurence Olivier,95
-47,46,From Here to Eternity,1953,Fred Zinnemann,92
-48,45,In the Heat of the Night,1967,Norman Jewison,95
-49,44,The Departed,2006,Martin Scorsese,91
-50,43,Rocky,1976,John G. Avildsen,94
-51,42,The Deer Hunter,1978,Michael Cimino,92
-52,41,All the King's Men,1949,Robert Rossen,95
-53,40,The Lord of the Rings: The Return of the King,2003,Peter Jackson,93
-54,39,Amadeus,1984,Milos Forman,93
-55,38,Titanic,1997,James Cameron,89
-56,37,Mutiny on the Bounty,1935,Frank Lloyd,93
-57,36,The Apartment,1960,Billy Wilder,93
-58,35,Slumdog Millionaire,2008,Danny Boyle,91
-59,34,You Can't Take It With You,1938,Frank Capra,93
-60,33,The Lost Weekend,1945,Billy Wilder,98
-61,32,One Flew Over the Cuckoo's Nest,1975,Milos Forman,94
-62,31,No Country for Old Men,2007,"Joel Coen, Ethan Coen",93
-63,30,Sunrise: A Song of Two Humans,1927,F.W. Murnau,98
-64,29,The King's Speech,2010,Tom Hooper,94
-65,28,The Bridge on the River Kwai,1957,David Lean,95
-66,27,Marty,1955,Delbert Mann,98
-67,26,The Silence of the Lambs,1991,Jonathan Demme,96
-68,25,Unforgiven,1992,Clint Eastwood,96
-69,24,The French Connection,1971,William Friedkin,98
-70,23,Schindler's List,1993,Steven Spielberg,97
-71,22,The Artist,2011,Michel Hazanavicius,95
-72,21,The Best Years of Our Lives,1946,William Wyler,97
-73,20,Birdman,2014,Alejandro González Iñárritu,91
-74,19,Gone With the Wind,1939,Victor Fleming,91
-75,18,Annie Hall,1977,Woody Allen,98
-76,17,All Quiet on the Western Front,1930,Lewis Milestone,98
-77,16,Lawrence of Arabia,1962,David Lean,97
-78,15,The Hurt Locker,2009,Kathryn Bigelow,97
-79,14,An American in Paris,1951,Vincente Minnelli,96
-80,13,On the Waterfront,1954,Elia Kazan,99
-81,12,"The Godfather, Part II",1974,Francis Ford Coppola,98
-82,11,Rebecca,1940,Alfred Hitchcock,100
-83,10,12 Years a Slave,2013,Steve McQueen (III),95
-84,9,Argo,2012,Ben Affleck,96
-85,8,All About Eve,1950,Joseph L. Mankiewicz,99
-86,7,The Godfather,1972,Francis Ford Coppola,98
-87,6,Spotlight,2015,,97
-88,5,The Shape of Water,2017,Guillermo del Toro,92
-89,4,It Happened One Night,1934,Frank Capra,98
-90,3,Moonlight,2016,Barry Jenkins (III),98
-91,2,Casablanca,1942,Michael Curtiz,99
-92,1,Parasite,2019,Bong Joon Ho,98
+Year,Movie,Directed By,Score (%),Poster,Decade,score_range
+1929,The Broadway Melody,Harry Beaumont,33,https://resizing.flixster.com/GjsL2qnKa4xl5-xNQNb1mN4-6YU=/180x240/v1.bTsxMTYxNjUyNztqOzE4NzY2OzIwNDg7MTIwMDsxNjAw,1920,21 to 40
+1952,The Greatest Show on Earth,Cecil B. DeMille,42,https://resizing.flixster.com/_ayEXffXEt0-wyHX1bV3TwJgZwE=/180x240/v1.bTsxMTUzNTMxNztqOzE4NzgwOzIwNDg7NTk0Ozc5Mg,1950,41 to 60
+1931,Cimarron,Wesley Ruggles,52,https://resizing.flixster.com/kqd1OXd7pciUy6tazan0M98Phdo=/180x270/v1.bTsxMTE2ODc1NztqOzE4Nzg2OzIwNDg7ODAwOzEyMDA,1930,41 to 60
+1985,Out of Africa,Sydney Pollack,62,https://resizing.flixster.com/2dBmZCVJkkEAEfIW_y8J0oIB9CM=/180x270/v1.bTsxMTE3MTcwMztqOzE4NzYyOzIwNDg7ODAwOzEyMDA,1980,61 to 80
+1933,Cavalcade,Frank Lloyd,64,https://resizing.flixster.com/px5hkUFd-dwxDnoZ617MJn4A9i8=/180x240/v1.bTsxMTYxOTQ3NDtqOzE4Nzg4OzIwNDg7NzY4OzEwMjQ,1930,61 to 80
+1936,The Great Ziegfeld,Robert Z. Leonard,64,https://resizing.flixster.com/NfyNCBZm8XEqI0sWfv5rA_wRDU8=/180x240/v1.bTsxMTIxMjYzMjtqOzE4Nzg2OzIwNDg7MjM0MDszMTIw,1930,61 to 80
+1956,Around the World in 80 Days,Michael Anderson,69,https://resizing.flixster.com/ytFIVSOWhEZdXrVIkhLmokrZuPk=/180x240/v1.bTsxMTIxMTU4ODtqOzE4Nzc3OzIwNDg7MTUzNjsyMDQ4,1950,61 to 80
+1994,Forrest Gump,Robert Zemeckis,71,https://resizing.flixster.com/VQMWXinPDJbKX2raA5z-ttmLWy8=/180x270/v1.bTsxMTE3MzY3NztqOzE4ODAxOzIwNDg7ODAwOzEyMDA,1990,61 to 80
+2004,Crash,Paul Haggis,74,https://resizing.flixster.com/3U8yX2-Hka1ofFTCiTAps8EVkMs=/180x270/v1.bTsxMTE3NzU3ODtqOzE4Nzg3OzIwNDg7ODAwOzEyMDA,2000,61 to 80
+2001,A Beautiful Mind,Ron Howard,74,https://resizing.flixster.com/4oZZ3HBIkiuWqHlv5A79MXdnmPc=/180x240/v1.bTsxMTYxNDIzMztqOzE4NzY3OzIwNDg7Nzk4OzEwNjQ,2000,61 to 80
+1983,Terms of Endearment,James L. Brooks,78,https://resizing.flixster.com/RH0Ou0K7nTEQo5QfgAnDbCl9FMM=/180x240/v1.bTsxMTM3MjM1MztqOzE4ODA0OzIwNDg7MTUzNjsyMDQ4,1980,61 to 80
+1995,Braveheart,Mel Gibson,78,https://resizing.flixster.com/e4tLjEtpsGXyhEgJxjfTux-8LRU=/180x270/v1.bTsxMTE2ODkyNTtqOzE4Nzc0OzIwNDg7ODAwOzEyMDA,1990,61 to 80
+1947,Gentleman's Agreement,Elia Kazan,76,https://resizing.flixster.com/Fm4EqRl4JnutnXQ_-yl7Blq_ShA=/180x240/v1.bTsxMTIxMzE2MjtqOzE4Nzc2OzIwNDg7MTUzNjsyMDQ4,1940,61 to 80
+2000,Gladiator,Ridley Scott,77,https://resizing.flixster.com/k6M8uwJQT1wOKCeD3Oc1yKlKt9Y=/180x270/v1.bTsxMTE2ODk0NDtqOzE4NzkzOzIwNDg7ODAwOzEyMDA,2000,61 to 80
+1968,Oliver!,Carol Reed,82,https://resizing.flixster.com/aB7wQpKaMztE1FlHLsV1SyVyq8Q=/180x240/v1.bTsxMTIwNzE3MDtqOzE4NzY5OzIwNDg7MTM5ODsxODY0,1960,81 to 100
+1944,Going My Way,Leo McCarey,81,https://resizing.flixster.com/OykIeQhVF7k59EObOI9eynqJ21I=/180x240/v1.bTsxMzQxODIyMDtqOzE4NzcwOzIwNDg7OTU1OzEyNzM,1940,81 to 100
+1958,Gigi,Vincente Minnelli,81,https://resizing.flixster.com/0jPQ6eOKIpJynjj1HaNoHS4zYs8=/180x270/v1.bTsxMTE2ODEwMjtqOzE4NzYxOzIwNDg7ODAwOzEyMDA,1950,81 to 100
+1963,Tom Jones,Tony Richardson,82,https://resizing.flixster.com/awyusyaeJv-Y4CCV6PgNCmdPFc8=/180x240/v1.bTsxMTIwNTM5MDtqOzE4Nzg5OzIwNDg7MTQxNjsxODg4,1960,81 to 100
+1989,Driving Miss Daisy,Bruce Beresford,82,https://resizing.flixster.com/C7W5J0Hh1qzp3jttXAh-tn74Po0=/180x270/v1.bTsxMTE2ODY5NztqOzE4NzcxOzIwNDg7ODAwOzEyMDA,1980,81 to 100
+1981,Chariots of Fire,Hugh Hudson,82,https://resizing.flixster.com/XizDq6VgXfhw-oH87yRTyMBvRaw=/180x270/v1.bTsxMTE2ODE0MztqOzE4ODAyOzIwNDg7ODAwOzEyMDA,1980,81 to 100
+1966,A Man for All Seasons,Fred Zinnemann,83,https://resizing.flixster.com/AXc-cSGN8If3aHRMB3jNKXUP7pU=/180x240/v1.bTsxMTIwMzg1ODtqOzE4Nzg3OzIwNDg7MTUzNjsyMDQ4,1960,81 to 100
+1990,Dances With Wolves,Kevin Costner,83,https://resizing.flixster.com/rAlLXRfcVzDdVHa-lRhx-oXN9Uw=/180x270/v1.bTsxMTE2ODEwODtqOzE4NzY3OzIwNDg7ODAwOzEyMDA,1990,81 to 100
+1996,The English Patient,Anthony Minghella,85,https://resizing.flixster.com/eOEkTRmhM7fsqne1XYeKkPhwGW8=/180x270/v1.bTsxMTE3ODY0NjtqOzE4Nzc1OzIwNDg7ODAwOzEyMDA,1990,81 to 100
+1937,The Life of Emile Zola,"Irving Rapper, William Dieterle",82,https://resizing.flixster.com/XWZCUdnk3fZRw54ea8eY6QJ_OvI=/180x240/v1.bTsxMTIxMjA2OTtqOzE4NzYzOzIwNDg7MTUzNjsyMDQ4,1930,81 to 100
+1982,Gandhi,Richard Attenborough,85,https://resizing.flixster.com/5T_wTOy1mzPWLapuASGQtWKuhCE=/180x240/v1.bTsxMTIwNDkwODtqOzE4ODAyOzIwNDg7MTI5OTsxNzMy,1980,81 to 100
+1959,Ben-Hur,William Wyler,86,https://resizing.flixster.com/T_BnVuWrcvcGcJ5syTbsHSFX-pI=/180x270/v1.bTsxMTE2ODE1OTtqOzE4NzczOzIwNDg7ODAwOzEyMDA,1950,81 to 100
+1979,Kramer vs. Kramer,Robert Benton,88,https://resizing.flixster.com/j7mWg6I1wxFOQbYCWzYuER2xUpc=/180x240/v1.bTsxMTI5MDM1NztqOzE4Nzk3OzIwNDg7MTMyMDsxNzYw,1970,81 to 100
+1965,The Sound of Music,Robert Wise,83,https://resizing.flixster.com/iiC0RBvF5KDR6COE3jFisrujFS4=/180x240/v1.bTsxMTYxNDA5MjtqOzE4ODA2OzIwNDg7MTU5NjsyMTI4,1960,81 to 100
+2018,Green Book,Peter Farrelly,78,https://resizing.flixster.com/P4i-itWxll-ifGutlKl5vBDgBs0=/171x270/v1.bTsxMjgyMzMzODtqOzE4NzM2OzIwNDg7MzE1ODs1MDAw,2010,61 to 80
+1932,Grand Hotel,Edmund Goulding,86,https://resizing.flixster.com/X6C5XzceJd7-0UW3wlEm97G-0Kc=/180x270/v1.bTsxMTE2ODEwMztqOzE4NzYyOzIwNDg7ODAwOzEyMDA,1930,81 to 100
+2002,Chicago,Rob Marshall,86,https://resizing.flixster.com/o0thV4kBFUWhWhhEBRGeVsr6d9M=/180x270/v1.bTsxMTE3MzAzMjtqOzE4Nzg2OzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1980,Ordinary People,Robert Redford,89,https://resizing.flixster.com/OAcg0AdAZr0FYazx4Sn71KYOSF8=/180x240/v1.bTsxMTYxNDc3NjtqOzE4NzcwOzIwNDg7NzY4OzEwMjQ,1980,81 to 100
+1986,Platoon,Oliver Stone,88,https://resizing.flixster.com/nsLbKUsekI-uaRW897WfIDWJ_r8=/180x237/v1.bTsxMTI5MjMxNDtqOzE4Nzc0OzIwNDg7MTMwODsxNzI1,1980,81 to 100
+1987,The Last Emperor,Bernardo Bertolucci,89,https://resizing.flixster.com/8nJ85P8SVOE_FcLkuqaeynxE2W8=/179x270/v1.bTsxMTYxNDI4ODtqOzE4Nzc3OzIwNDg7NTAwOzc1NQ,1980,81 to 100
+1988,Rain Man,Barry Levinson,89,https://resizing.flixster.com/pv79xmIprDyWlP3yO5nSj6Hf7KA=/180x240/v1.bTsxMTQ1Mzg2MjtqOzE4Nzc0OzIwNDg7MTI5MDsxNzIw,1980,81 to 100
+1999,American Beauty,Sam Mendes,87,https://resizing.flixster.com/OU0l6nYZ9gHV8KZKH36ZuxRow_M=/180x240/v1.bTsxMjk2MDAxOTtqOzE4NzU0OzIwNDg7MTM5ODsxODY0,1990,81 to 100
+1941,How Green Was My Valley,John Ford,89,https://resizing.flixster.com/TGL6_3FxXeflW1zEBn0z9HDMYN4=/180x240/v1.bTsxMTI5NDY0NDtqOzE4NzY0OzIwNDg7MTIwMDsxNjAw,1940,81 to 100
+1927,Wings,William Wellman,93,https://resizing.flixster.com/uP-BSNNt1q1BXGVs8Bd5HJAjukU=/180x240/v1.bTsxMTI5MjY3ODtqOzE4Nzc4OzIwNDg7MTUzNjsyMDQ4,1920,81 to 100
+1942,Mrs. Miniver,William Wyler,94,https://resizing.flixster.com/aP6fEzzMzpkIAw2e9rkr10Zfk7Q=/180x270/v1.bTsxMTE2ODEwOTtqOzE4NzY4OzIwNDg7ODAwOzEyMDA,1940,81 to 100
+1969,Midnight Cowboy,John Schlesinger,88,https://resizing.flixster.com/orKfclv79MUjynKDveqzzvCgd9M=/180x240/v1.bTsxMTM3MjM3NztqOzE4NzgzOzIwNDg7MTIwMDsxNjAw,1960,81 to 100
+2004,Million Dollar Baby,Clint Eastwood,91,https://resizing.flixster.com/H8jYP1VA0WZCdwUUzTjePoW_Ps8=/180x270/v1.bTsxMTE2ODEwNjtqOzE4NzY1OzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1970,Patton,Franklin J. Schaffner,94,https://resizing.flixster.com/6ud_uoFIXNdaBX3wnHGN8M9y-Gs=/180x240/v1.bTsxMTIwODI1MTtqOzE4NzcwOzIwNDg7MTM0NzsxNzk2,1970,81 to 100
+1998,Shakespeare in Love,John Madden (II),92,https://resizing.flixster.com/3UBWyGCTxrLlX0ljI98JUNMT44E=/180x270/v1.bTsxMTE3NjE5NDtqOzE4Nzk4OzIwNDg7ODAwOzEyMDA,1990,81 to 100
+1973,The Sting,George Roy Hill,94,https://resizing.flixster.com/E894y7vsUNaFyqUiP0iv70YWCv0=/180x270/v1.bTsxMTE3MTYwMjtqOzE4Nzk2OzIwNDg7ODAwOzEyMDA,1970,81 to 100
+1964,My Fair Lady,George Cukor,95,https://resizing.flixster.com/VS9d4QDpZeKtiKQVUXsdNTSv49A=/180x240/v1.bTsxMTIwNzEzNTtqOzE4Nzc5OzIwNDg7MTEzNDsxNTEy,1960,81 to 100
+1961,West Side Story,"Robert Wise, Jerome Robbins",92,https://resizing.flixster.com/LCxO1q9T4TTXOG4mMBRFyv3Ft6M=/180x240/v1.bTsxMTIxMjgyODtqOzE4ODAyOzIwNDg7MTM4OTsxODUy,1960,81 to 100
+1948,Hamlet,Laurence Olivier,95,https://resizing.flixster.com/TlK-Qroc7uL7YGtLCITfdiwaD88=/180x240/v1.bTsxMTIxMTY1OTtqOzE4ODAzOzIwNDg7MTUzNjsyMDQ4,1940,81 to 100
+1953,From Here to Eternity,Fred Zinnemann,92,https://resizing.flixster.com/kYIZth9XWqqQLjYQAivbYezMpi4=/180x270/v1.bTsxMTE3Mzg1NTtqOzE4Nzk5OzIwNDg7ODAwOzEyMDA,1950,81 to 100
+1967,In the Heat of the Night,Norman Jewison,95,https://resizing.flixster.com/vw9_w9uHkuvBh5EwWnUrYFGKJHA=/180x240/v1.bTsxMTIwNDMxOTtqOzE4Nzk4OzIwNDg7MTUzNjsyMDQ4,1960,81 to 100
+2006,The Departed,Martin Scorsese,91,https://resizing.flixster.com/qpEJYXhRPuMnn6w3W-HepGwZJac=/180x270/v1.bTsxMTE2NjcyMTtqOzE4Nzc1OzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1976,Rocky,John G. Avildsen,94,https://resizing.flixster.com/FKUIVH1AmFE8hLDjn8Yb131a_JM=/180x240/v1.bTsxMTYxNDM4NTtqOzE4Nzg0OzIwNDg7NzE0Ozk1Mg,1970,81 to 100
+1978,The Deer Hunter,Michael Cimino,92,https://resizing.flixster.com/9M1CoBFu5xuNax0CyEUqO3Hwfbo=/180x240/v1.bTsxMTM3MjMyODtqOzE4Nzc5OzIwNDg7MTIwMDsxNjAw,1970,81 to 100
+1949,All the King's Men,Robert Rossen,95,https://resizing.flixster.com/BQiZtVvOZoUltL3gBrvx-ErJTzQ=/180x240/v1.bTsxMTIxMTA5MjtqOzE4Nzc2OzIwNDg7MjcwMDszNjAw,1940,81 to 100
+2003,The Lord of the Rings: The Return of the King,Peter Jackson,93,https://resizing.flixster.com/qCx97a6wBT7Z1n2JO1FwAmvhQFM=/180x270/v1.bTsxMTE2NjQyMztqOzE4NzkyOzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1984,Amadeus,Milos Forman,93,https://resizing.flixster.com/OQdVZltcxDo2Yn4y3lgJFWEGd90=/180x270/v1.bTsxMTE2ODAyNztqOzE4Nzc2OzIwNDg7ODAwOzEyMDA,1980,81 to 100
+1997,Titanic,James Cameron,89,https://resizing.flixster.com/h1A_QTk54KlnI4t862rYRCy1RS4=/180x268/v1.bTsxMTE2NjMyMDtqOzE4Nzc5OzIwNDg7ODAwOzExOTM,1990,81 to 100
+1935,Mutiny on the Bounty,Frank Lloyd,93,https://resizing.flixster.com/Z36y13CmI4Ev18RjXafHHDruid4=/180x270/v1.bTsxMTE2ODExMDtqOzE4NzY5OzIwNDg7ODAwOzEyMDA,1930,81 to 100
+1960,The Apartment,Billy Wilder,93,https://resizing.flixster.com/KwAAFwyk_Lbb370U3F3t8gNH_K8=/180x240/v1.bTsxMTYxNjM5NjtqOzE4NzcwOzIwNDg7NzY4OzEwMjQ,1960,81 to 100
+2008,Slumdog Millionaire,Danny Boyle,91,https://resizing.flixster.com/N4-cxIBVVhtorgETX8bgHHg-gPA=/180x240/v1.bTsxMTIzMzUzMztqOzE4NzYzOzIwNDg7MTUzNjsyMDQ4,2000,81 to 100
+1938,You Can't Take It With You,Frank Capra,93,https://resizing.flixster.com/rg-1Drsgms8GTQxjBAesDGjONBI=/180x240/v1.bTsxMTI5MjY1MDtqOzE4Nzk1OzIwNDg7MjI1MDszMDAw,1930,81 to 100
+1945,The Lost Weekend,Billy Wilder,98,https://resizing.flixster.com/Ldq9NqMBcXR9DI9bPDaEyLY0r6E=/180x240/v1.bTsxMTIxMTU1MztqOzE4Nzg3OzIwNDg7MTEyNTsxNTAw,1940,81 to 100
+1975,One Flew Over the Cuckoo's Nest,Milos Forman,94,https://resizing.flixster.com/oCVhLLon1sLIaAdoMlEkufEHCW8=/180x270/v1.bTsxMTE2ODEwNztqOzE4NzY2OzIwNDg7ODAwOzEyMDA,1970,81 to 100
+2007,No Country for Old Men,"Joel Coen, Ethan Coen",93,https://resizing.flixster.com/aqR762264WQl6k1Ee_5D-QSgWPw=/180x270/v1.bTsxMTE3NjE2ODtqOzE4NzcyOzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1927,Sunrise: A Song of Two Humans,F.W. Murnau,98,https://resizing.flixster.com/t6CKDYuw3O2o2rfukgKmaIc3dgg=/180x240/v1.bTsxMTI5NTAwOTtqOzE4NzY5OzIwNDg7MTMzMjsxNzc2,1920,81 to 100
+2010,The King's Speech,Tom Hooper,94,https://resizing.flixster.com/qiJSyEHw_x1vp0tqnmIB41Cex0k=/180x263/v1.bTsxMTE1NDQ3MztqOzE4NzY3OzIwNDg7MTk1MDsyODUw,2010,81 to 100
+1957,The Bridge on the River Kwai,David Lean,95,https://resizing.flixster.com/A_Y5PsD71yoNbz3ubRKO-KhIJ5w=/180x240/v1.bTsxMTIyODY1MztqOzE4Nzg3OzIwNDg7MjI1MDszMDAw,1950,81 to 100
+1955,Marty,Delbert Mann,98,https://resizing.flixster.com/Im_RJRp6nKs7hOJPb29ydXsSfrQ=/180x240/v1.bTsxMTIxMDk0NztqOzE4NzY2OzIwNDg7MTIwMDsxNjAw,1950,81 to 100
+1991,The Silence of the Lambs,Jonathan Demme,96,https://resizing.flixster.com/nrQUfE8s-qyob9PE4xZ_CN9yKow=/180x240/v1.bTsxMTI5MjIyMDtqOzE4NzcwOzIwNDg7MTQ4NTsxOTgw,1990,81 to 100
+1992,Unforgiven,Clint Eastwood,96,https://resizing.flixster.com/dMm5g9K7UTtssuXerQoKLf3h0rU=/180x270/v1.bTsxMTE2ODAzNTtqOzE4Nzg0OzIwNDg7ODAwOzEyMDA,1990,81 to 100
+1971,The French Connection,William Friedkin,98,https://resizing.flixster.com/os8MYqDCWhQGBpPgHYn3yzWinME=/180x240/v1.bTsxMTI5MTI5NTtqOzE4NzkwOzIwNDg7MTIwMDsxNjAw,1970,81 to 100
+1993,Schindler's List,Steven Spielberg,97,https://resizing.flixster.com/sS3Dh8fQ5UYmWUcPEiL4aHTPbaA=/180x240/v1.bTsxMTIwODUwODtqOzE4ODAyOzIwNDg7ODUyOzExMzY,1990,81 to 100
+2011,The Artist,Michel Hazanavicius,95,https://resizing.flixster.com/BthKjgyNAo9fXuxk8BNn7pQkX9M=/180x270/v1.bTsxMTE2NTY2NztqOzE4ODAxOzIwNDg7ODAwOzEyMDA,2010,81 to 100
+1946,The Best Years of Our Lives,William Wyler,97,https://resizing.flixster.com/_lUauyexe6xiLEdcbJPbqxcOEsE=/180x240/v1.bTsxMTIxMzM2NTtqOzE4Nzk5OzIwNDg7MTUzNjsyMDQ4,1940,81 to 100
+2014,Birdman,Alejandro González Iñárritu,91,https://resizing.flixster.com/ANVG6LZJ0n4rGhVpRgM5twgZY68=/180x270/v1.bTsxMTE4OTkxNDtqOzE4NzkzOzIwNDg7ODAwOzEyMDA,2010,81 to 100
+1939,Gone With the Wind,Victor Fleming,91,https://resizing.flixster.com/0uD78lla3B5aGfrlM2lJfMyKMbo=/180x270/v1.bTsxMTE2ODA5MjtqOzE4Nzk2OzIwNDg7ODAwOzEyMDA,1930,81 to 100
+1977,Annie Hall,Woody Allen,98,https://resizing.flixster.com/rZx_M2n2Bsvvl-KYWAgB1mD50Uo=/180x240/v1.bTsxMTIwNDg5ODtqOzE4NzkyOzIwNDg7MTM4MDsxODQw,1970,81 to 100
+1930,All Quiet on the Western Front,Lewis Milestone,98,https://resizing.flixster.com/xEJ681CKVGzfxjlijlZITsjQYrY=/180x240/v1.bTsxMTI5MjYzODtqOzE4NzgzOzIwNDg7OTU3OzEyNzY,1930,81 to 100
+1962,Lawrence of Arabia,David Lean,97,https://resizing.flixster.com/66hoct5VLvJTz7vQ6BV3MHiiFlk=/180x270/v1.bTsxMTE2NzUwMDtqOzE4Nzg5OzIwNDg7ODAwOzEyMDA,1960,81 to 100
+2009,The Hurt Locker,Kathryn Bigelow,97,https://resizing.flixster.com/vsqRju7p0LYn75KK-Fa-5_D82T8=/180x270/v1.bTsxMTE3NTc3MztqOzE4NzgyOzIwNDg7ODAwOzEyMDA,2000,81 to 100
+1951,An American in Paris,Vincente Minnelli,96,https://resizing.flixster.com/xRSGan2B1Ooexxgc2xIHDd5wapM=/180x270/v1.bTsxMTE2ODAyMTtqOzE4NzcwOzIwNDg7ODAwOzEyMDA,1950,81 to 100
+1954,On the Waterfront,Elia Kazan,99,https://resizing.flixster.com/QzTulvjHMErSiYCK2Y6d-mvXYHE=/180x240/v1.bTsxMTIxMTQyNDtqOzE4NzkzOzIwNDg7MTgwMDsyNDAw,1950,81 to 100
+1974,"The Godfather, Part II",Francis Ford Coppola,98,https://resizing.flixster.com/wI27wxYohW6SjcBUp-IUANMYacA=/180x270/v1.bTsxMTE2OTc4MztqOzE4Nzc3OzIwNDg7ODAwOzEyMDA,1970,81 to 100
+1940,Rebecca,Alfred Hitchcock,100,https://resizing.flixster.com/JM6waIaMcoIZbM9-DNnxqpeAK8s=/180x240/v1.bTsxMTI5MjYwNTtqOzE4Nzk1OzIwNDg7OTAwOzEyMDA,1940,81 to 100
+2013,12 Years a Slave,Steve McQueen (III),95,https://resizing.flixster.com/xfUplDH43X_ArK42HeLJM9doAPs=/180x270/v1.bTsxMTE3NjQ5NTtqOzE4Nzg0OzIwNDg7ODAwOzEyMDA,2010,81 to 100
+2012,Argo,Ben Affleck,96,https://resizing.flixster.com/hk9F37KdrjdloLJcbTBDSmWxqSY=/180x270/v1.bTsxMTE2OTE4MTtqOzE4NzYwOzIwNDg7ODAwOzEyMDA,2010,81 to 100
+1950,All About Eve,Joseph L. Mankiewicz,99,https://resizing.flixster.com/H8vGT8N6hjhPeZsCuQohzdSXmTg=/180x240/v1.bTsxMTIxMTMxNztqOzE4Nzc2OzIwNDg7MTEyNTsxNTAw,1950,81 to 100
+1972,The Godfather,Francis Ford Coppola,98,https://resizing.flixster.com/8aHFEcW4lgA0WClkSD00hWCi1Ps=/180x270/v1.bTsxMTE3MTYxMjtqOzE4NzYxOzIwNDg7ODAwOzEyMDA,1970,81 to 100
+2015,Spotlight,,97,https://resizing.flixster.com/bXMyxf1-1rXQk0k9Xqc0ksQBLSU=/180x266/v1.bTsxMTIwMTU1ODtqOzE4NzgyOzIwNDg7MTg5MzsyODAw,2010,81 to 100
+2017,The Shape of Water,Guillermo del Toro,92,https://resizing.flixster.com/68aSH9cjFPBUBmiK1K6fbfOJlrM=/180x267/v1.bTsxMjU2MTA5MDtqOzE4NzQ1OzIwNDg7MTM4MjsyMDQ4,2010,81 to 100
+1934,It Happened One Night,Frank Capra,98,https://resizing.flixster.com/i3SXdqUw_X3Dul0LIkxeZgm7B6c=/180x240/v1.bTsxMTIwNTQ2MztqOzE4NzcyOzIwNDg7MjcwMDszNjAw,1930,81 to 100
+2016,Moonlight,Barry Jenkins (III),98,https://resizing.flixster.com/CkSxylrRYOON30AczRXk9Os9nfU=/180x261/v1.bTsxMjIyMzcyNTtqOzE4NzQxOzIwNDg7MjcwMDszOTEw,2010,81 to 100
+1942,Casablanca,Michael Curtiz,99,https://resizing.flixster.com/9VUsgbanSu1I1LQBCM7CGut-Ww8=/180x270/v1.bTsxMTE2ODEwMTtqOzE4NzYwOzIwNDg7ODAwOzEyMDA,1940,81 to 100
+2019,Parasite,Bong Joon Ho,98,https://resizing.flixster.com/kX0GoMIhL3t7EseGeme-Q6DHbPU=/180x267/v1.bTsxMzIyNDEwMjtqOzE4NzgwOzIwNDg7MjQwMDszNTU2,2010,81 to 100
